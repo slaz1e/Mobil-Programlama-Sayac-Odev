@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidStudioJavaSayac</string>
+    <string name="Numara_Ad_Soyad">201913709020 Necdet Gedik</string>
+    <string name="artı">+</string>
+    <string name="eksi">-</string>
+    <string name="Sayac">Saymaya Başla</string>
+    <string name="Ayarlar_Buton">Ayarlar</string>
+    <string name="Titreşim">Titreşim</string>
+    <string name="Ses">Ses</string>
+</resources>
